@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: chartreuse;
+  display: inline-block;
+}
+form label{
+  display:inline-block;
+  width:130px;
+  margin:10px;
+}
+.checkbox{
+  width:auto;
+}
+
+.input{
+  width:300px;
+}
